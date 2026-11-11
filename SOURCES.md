@@ -22,6 +22,7 @@ The full directory is a source snapshot, not a separate verification of 129 depl
 | [Lighter Domains](https://docs.robinhood.com/chain/lighter-domains/) | Dedicated Robinhood instance, separation from Lighter Core, UI and API docs |
 | [Arcus](https://arcus.xyz) | Spot beta availability, perps waitlist/cohort rollout and linked documentation |
 | [Rialto documentation](https://docs.rialto.xyz/) | Spot exchange and AMM description |
+| [HEY Research Lab developers](https://heyresearch.xyz/developers) (checked 2026-11-12) | Public API and hosted MCP server description |
 
 The linked project websites and documentation supply their own product descriptions. The provider table in Robinhood’s documentation does not establish that every product from those companies is available on the chain.
 

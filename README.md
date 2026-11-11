@@ -89,6 +89,7 @@ Available routes vary by asset and network. Start with the [official bridging gu
 - [Allium](https://www.allium.so): Indexed blockchain data for analytics and applications. [Docs](https://docs.allium.so).
 - [CoinGecko](https://www.coingecko.com): Token prices, market data and venue coverage.
 - [Zerion](https://zerion.io): Wallet data APIs and a multichain self-custody wallet. [Docs](https://zerion.io/api).
+- [HEY Research Lab](https://heyresearch.xyz): Public record of building on Robinhood Chain: which projects are still shipping, what they shipped and when, each item linked to its source. Free read-only API and MCP server; no ratings or trading signals. [Docs](https://heyresearch.xyz/developers).
 
 ## Wallets and institutional services
 

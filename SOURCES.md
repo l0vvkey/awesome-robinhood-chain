@@ -22,6 +22,7 @@ The full directory is a source snapshot, not a separate verification of 129 depl
 | [Lighter Domains](https://docs.robinhood.com/chain/lighter-domains/) | Dedicated Robinhood instance, separation from Lighter Core, UI and API docs |
 | [Arcus](https://arcus.xyz) | Spot beta availability, perps waitlist/cohort rollout and linked documentation |
 | [Rialto documentation](https://docs.rialto.xyz/) | Spot exchange and AMM description |
+| [Obsyn deployments](https://github.com/ObsynDev/obsyn/blob/main/DEPLOYMENTS.md) (checked 18 November 2026) | Mainnet escrow and fee-vault addresses (chain 4663, verified on Sourcify), the agent (MCP) server and the desk description |
 
 The linked project websites and documentation supply their own product descriptions. The provider table in Robinhood’s documentation does not establish that every product from those companies is available on the chain.
 

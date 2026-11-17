@@ -121,6 +121,7 @@ Agent tools differ in wallet permissions and execution controls. Review wallet p
 - [bankrbot](https://bankr.bot): Conversational trading, swaps and token limit orders.
 - [Sherwood Protocol](https://sherwood.sh): Vault infrastructure for agent-operated DeFi strategies.
 - [wire bot](https://wirebot.trade/docs): Social and web trading interfaces for Robinhood Chain.
+- [Obsyn](https://obsyn.trade): Private OTC desk for block trades on Robinhood Chain mainnet: sealed bids and listings, settlement in one transaction through an escrow with no admin key, and an MCP server so agents can trade on the desk. [Docs](https://obsyn.trade/docs).
 
 ## Stock Tokens and issuer comparisons
 
